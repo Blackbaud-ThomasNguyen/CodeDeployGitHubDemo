@@ -8,3 +8,6 @@ hooks:
     - location: scripts/run_docker_hello_world.sh
       timeout: 300
       runas: root
+    - location: scripts/run_app_server.sh
+      timout: 300
+      runas: root
