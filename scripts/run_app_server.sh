@@ -1,3 +1,3 @@
 #!/bin/bash
 pip install Flask
-python app_server.py
+python ../modules/app_server.py
