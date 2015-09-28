@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination: /www/ 
+    destination: . 
 hooks:
   AfterInstall:
     - location: scripts/run_docker_hello_world.sh
