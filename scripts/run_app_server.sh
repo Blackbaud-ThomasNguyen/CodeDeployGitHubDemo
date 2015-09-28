@@ -1,3 +1,3 @@
 #!/bin/bash
 pip install Flask
-python hello.py
+python app_server.py
